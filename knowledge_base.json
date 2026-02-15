@@ -1,0 +1,28 @@
+{
+  "water_ingress": {
+    "safe_next_steps": [
+      "Check gutters and downpipes for visible blockages",
+      "Inspect the external wall for visible cracks",
+      "Take clear photographs of the affected area",
+      "Monitor whether the damp worsens after rainfall"
+    ],
+    "clarification_questions": [
+      "Is the affected wall an external wall?",
+      "Does the damp appear only after heavy rainfall?",
+      "Have you noticed cracks or issues with gutters externally?",
+      "Is there any mould smell or visible mould growth?"
+    ]
+  },
+  "electrical_issue": {
+    "safe_next_steps": [
+      "Avoid using the affected socket or appliance",
+      "Turn off power to the affected area if safe to do so",
+      "Do not attempt internal electrical repairs yourself"
+    ],
+    "clarification_questions": [
+      "Are there visible sparks or burning smells?",
+      "Is a specific appliance involved?",
+      "When did the issue first occur?"
+    ]
+  }
+}
